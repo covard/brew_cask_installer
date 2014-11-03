@@ -7,3 +7,4 @@ brew cask install spotify
 brew cask install dropbox
 brew cask install firefox
 brew cask install cyberduck
+brew cask install pg-commander
