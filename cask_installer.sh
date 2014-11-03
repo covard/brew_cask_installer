@@ -1,5 +1,6 @@
 #!/bin/sh
-brew cask install google-chrome 
+brew cask install iterm2
+brew cask install google-chrome
 brew cask install adium
 brew cask install handbrake
 brew cask install spotify
