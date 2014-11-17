@@ -10,6 +10,7 @@ Install Homebrew
 Setup Cask
 
 `$ brew tap caskroom/cask`
+
 `$ brew install caskroom/cask/brew-cask`
 
 after installing alfred need to run this to link them
