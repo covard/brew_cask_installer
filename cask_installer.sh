@@ -8,3 +8,5 @@ brew cask install dropbox
 brew cask install firefox
 brew cask install cyberduck
 brew cask install pg-commander
+brew cask install alfred
+brew cask alfred link
